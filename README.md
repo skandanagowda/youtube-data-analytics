@@ -89,9 +89,9 @@ After these steps, you can proceed with AWS Glue, Athena, and Tableau.
 - Built a fully interactive and professional Tableau Business Dashboard.
 - Published the dashboard to Tableau Public for live online access.
 
-🔗 **Project Links
+🔗 **Project Links**
 - [GitHub Repository](https://github.com/skandanagowda/youtube-data-analytics)
 - [Tableau Public Dashboard](https://public.tableau.com/views/YouTubeAnalytics_17455185008660/YouTubeAnalytics?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-🙌 **Acknowledgements
+🙌 **Acknowledgements**
 Special thanks to free APIs, AWS Free Tier, and Tableau Public for making this possible.
