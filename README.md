@@ -58,19 +58,19 @@ pip install -r requirements.txt
 ```
 
 ### 4. Run the Python scripts in order:
-Step 1: Extract YouTube Data
+- Step 1: Extract YouTube Data
 ```bash
 python youtube_api_script.py
 ```
 (Fetches video data from YouTube Data API and saves to CSV)
 
-Step 2: Clean the Raw Data
+- Step 2: Clean the Raw Data
 ```bash
 python clean_data.py
 ```
 (Cleans and formats the CSV for analysis)
 
-Step 3: Upload Cleaned Data to S3
+- Step 3: Upload Cleaned Data to S3
 ```bash
 python upload_to_s3.py
 ```
